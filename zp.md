@@ -55,9 +55,13 @@
 - For AWS, it can be an Amazon Glacier S3 bucket.
 - For GCP, it can be an Archive Storage class bucket.
 
-4.  Did your Grafana use any data sources other then Prometheus?
-5.  How did you setup and configure Loki?
-6.  What is your alert solution? Have you ever used Pagerduty?
+11.  Did your Grafana use any data sources other then Prometheus?
+
+12.  How did you setup and configure Loki?
+No, I haven't had a chance to work with Loki before, but I would love to.
+
+13.  What is your alert solution? Have you ever used Pagerduty?
+
 7.  Explain about the Datadog configuration and setup?
 8.  How did you monitor the status of your infras and application?
 9.  How did you setup your Kubernetes cluster and deploy applications? What about patching operations for the cluster?
